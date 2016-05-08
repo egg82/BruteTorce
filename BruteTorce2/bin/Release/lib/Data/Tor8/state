@@ -1,0 +1,25 @@
+# Tor state file last generated on 2016-05-06 00:20:36 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard HostplanetME23 C697612CA5AED06B8D829FCC6065B9287212CB2F DirCache
+EntryGuardAddedBy C697612CA5AED06B8D829FCC6065B9287212CB2F 0.2.7.6 2016-05-03 01:53:35
+EntryGuardPathBias 18.000000 16.000000 16.000000 0.000000 0.000000 1.000000
+EntryGuardPathUseBias 9.000000 9.000000
+EntryGuard riuriu 0AD5DC3C47CAD362E5682F7FBD5E2E28B2D49899 DirCache
+EntryGuardAddedBy 0AD5DC3C47CAD362E5682F7FBD5E2E28B2D49899 0.2.7.6 2016-04-27 19:25:59
+EntryGuardPathBias 1.000000 1.000000 1.000000 0.000000 0.000000 0.000000
+EntryGuardPathUseBias 1.000000 1.000000
+EntryGuard fento 4E737BBFCCBE45A923CE82577E99DCFFABC5BFF4 DirCache
+EntryGuardAddedBy 4E737BBFCCBE45A923CE82577E99DCFFABC5BFF4 0.2.7.6 2016-04-17 17:32:56
+TorVersion Tor 0.2.7.6 (git-7a489a6389110120)
+LastWritten 2016-05-06 06:20:36
+TotalBuildTimes 17
+CircuitBuildTimeBin 425 6
+CircuitBuildTimeBin 475 1
+CircuitBuildTimeBin 525 3
+CircuitBuildTimeBin 575 1
+CircuitBuildTimeBin 675 1
+CircuitBuildTimeBin 725 2
+CircuitBuildTimeBin 775 2
+CircuitBuildTimeBin 825 1

@@ -1,0 +1,24 @@
+# Tor state file last generated on 2016-05-06 00:20:38 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard coralairvpn 64846B8BAEDB6234FEB18E18124CC9C9C279C254 DirCache
+EntryGuardAddedBy 64846B8BAEDB6234FEB18E18124CC9C9C279C254 0.2.7.6 2016-05-03 15:42:27
+EntryGuardPathBias 26.000000 25.000000 25.000000 0.000000 0.000000 0.000000
+EntryGuardPathUseBias 18.000000 18.000000
+EntryGuard torrelay1ph3xat FC9AC8EA0160D88BCCFDE066940D7DD9FA45495B DirCache
+EntryGuardAddedBy FC9AC8EA0160D88BCCFDE066940D7DD9FA45495B 0.2.7.6 2016-04-20 21:22:13
+EntryGuard kingqueen 7B48192A59A903F914ECF73ADBC3711F3E8EAE01 DirCache
+EntryGuardAddedBy 7B48192A59A903F914ECF73ADBC3711F3E8EAE01 0.2.7.6 2016-04-28 04:53:32
+TorVersion Tor 0.2.7.6 (git-7a489a6389110120)
+LastWritten 2016-05-06 06:20:38
+TotalBuildTimes 25
+CircuitBuildTimeBin 525 7
+CircuitBuildTimeBin 575 6
+CircuitBuildTimeBin 625 6
+CircuitBuildTimeBin 825 1
+CircuitBuildTimeBin 925 1
+CircuitBuildTimeBin 1025 1
+CircuitBuildTimeBin 1125 1
+CircuitBuildTimeBin 1425 1
+CircuitBuildTimeBin 1975 1

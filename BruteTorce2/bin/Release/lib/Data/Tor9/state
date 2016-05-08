@@ -1,0 +1,23 @@
+# Tor state file last generated on 2016-05-06 00:21:01 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard N22479 E5F08127E89C1F6899B0FFE51234CCE240F32ECA DirCache
+EntryGuardAddedBy E5F08127E89C1F6899B0FFE51234CCE240F32ECA 0.2.7.6 2016-04-10 22:13:52
+EntryGuardPathBias 13.000000 13.000000 13.000000 0.000000 0.000000 0.000000
+EntryGuardPathUseBias 5.000000 5.000000
+EntryGuard LinuxNerdsRelay 30D2ED66CD2CBE7638C813F1FBE44EE1C75B1692 DirCache
+EntryGuardAddedBy 30D2ED66CD2CBE7638C813F1FBE44EE1C75B1692 0.2.7.6 2016-05-03 08:21:24
+EntryGuard kili DD85503F2D1F52EF9EAD621E942298F46CD2FC10 DirCache
+EntryGuardAddedBy DD85503F2D1F52EF9EAD621E942298F46CD2FC10 0.2.7.6 2016-04-13 19:46:43
+TorVersion Tor 0.2.7.6 (git-7a489a6389110120)
+LastWritten 2016-05-06 06:21:01
+TotalBuildTimes 13
+CircuitBuildTimeBin 475 2
+CircuitBuildTimeBin 525 3
+CircuitBuildTimeBin 575 1
+CircuitBuildTimeBin 625 1
+CircuitBuildTimeBin 675 2
+CircuitBuildTimeBin 725 1
+CircuitBuildTimeBin 775 2
+CircuitBuildTimeBin 825 1

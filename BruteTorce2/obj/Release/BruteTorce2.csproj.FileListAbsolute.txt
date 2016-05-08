@@ -1,0 +1,5 @@
+c:\users\eggys\documents\visual studio 2015\Projects\BruteTorce2\BruteTorce2\bin\Release\BruteTorce2.exe.config
+c:\users\eggys\documents\visual studio 2015\Projects\BruteTorce2\BruteTorce2\bin\Release\BruteTorce2.exe
+c:\users\eggys\documents\visual studio 2015\Projects\BruteTorce2\BruteTorce2\bin\Release\BruteTorce2.pdb
+c:\users\eggys\documents\visual studio 2015\Projects\BruteTorce2\BruteTorce2\obj\Release\BruteTorce2.exe
+c:\users\eggys\documents\visual studio 2015\Projects\BruteTorce2\BruteTorce2\obj\Release\BruteTorce2.pdb

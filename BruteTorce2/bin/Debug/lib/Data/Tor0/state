@@ -1,0 +1,56 @@
+# Tor state file last generated on 2016-05-08 16:27:54 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard flanders 1DBAED235E3957DE1ABD25B4206BE71406FB61F8 DirCache
+EntryGuardAddedBy 1DBAED235E3957DE1ABD25B4206BE71406FB61F8 0.2.7.6 2016-04-28 02:34:32
+EntryGuardPathBias 203.250000 198.000000 198.000000 0.000000 0.000000 0.500000
+EntryGuardPathUseBias 60.000000 60.000000
+EntryGuard Smeerboel 844AE9CAD04325E955E2BE1521563B79FE7094B7 DirCache
+EntryGuardAddedBy 844AE9CAD04325E955E2BE1521563B79FE7094B7 0.2.7.6 2016-04-18 19:06:56
+EntryGuardPathBias 6.000000 5.000000 5.000000 0.000000 0.000000 0.000000
+EntryGuard April D7632418D69F274E6B260D448E3099315CD72C50 DirCache
+EntryGuardAddedBy D7632418D69F274E6B260D448E3099315CD72C50 0.2.7.6 2016-04-26 08:41:59
+TorVersion Tor 0.2.7.6 (git-7a489a6389110120)
+LastWritten 2016-05-08 22:27:54
+TotalBuildTimes 491
+CircuitBuildAbandonedCount 1
+CircuitBuildTimeBin 425 9
+CircuitBuildTimeBin 475 106
+CircuitBuildTimeBin 525 62
+CircuitBuildTimeBin 575 49
+CircuitBuildTimeBin 625 43
+CircuitBuildTimeBin 675 33
+CircuitBuildTimeBin 725 36
+CircuitBuildTimeBin 775 33
+CircuitBuildTimeBin 825 26
+CircuitBuildTimeBin 875 14
+CircuitBuildTimeBin 925 6
+CircuitBuildTimeBin 975 12
+CircuitBuildTimeBin 1025 10
+CircuitBuildTimeBin 1075 5
+CircuitBuildTimeBin 1125 4
+CircuitBuildTimeBin 1175 3
+CircuitBuildTimeBin 1225 3
+CircuitBuildTimeBin 1275 7
+CircuitBuildTimeBin 1325 5
+CircuitBuildTimeBin 1375 3
+CircuitBuildTimeBin 1425 3
+CircuitBuildTimeBin 1475 1
+CircuitBuildTimeBin 1525 1
+CircuitBuildTimeBin 1575 1
+CircuitBuildTimeBin 1625 1
+CircuitBuildTimeBin 1825 1
+CircuitBuildTimeBin 2025 1
+CircuitBuildTimeBin 2075 1
+CircuitBuildTimeBin 2225 1
+CircuitBuildTimeBin 2525 1
+CircuitBuildTimeBin 2675 1
+CircuitBuildTimeBin 2925 1
+CircuitBuildTimeBin 3325 1
+CircuitBuildTimeBin 3675 1
+CircuitBuildTimeBin 4275 1
+CircuitBuildTimeBin 4575 1
+CircuitBuildTimeBin 9125 1
+CircuitBuildTimeBin 9225 1
+CircuitBuildTimeBin 15425 1

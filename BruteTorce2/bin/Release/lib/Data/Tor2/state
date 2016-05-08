@@ -1,0 +1,21 @@
+# Tor state file last generated on 2016-05-06 00:20:38 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard lovejoy 175921396C7C426309AB03775A9930B6F611F794 DirCache
+EntryGuardAddedBy 175921396C7C426309AB03775A9930B6F611F794 0.2.7.6 2016-04-30 17:03:30
+EntryGuardPathBias 13.000000 13.000000 13.000000 0.000000 0.000000 0.000000
+EntryGuardPathUseBias 5.000000 5.000000
+EntryGuard CatRelay 3EDC92478D677EC06863C2EC431221243B15DC33 DirCache
+EntryGuardAddedBy 3EDC92478D677EC06863C2EC431221243B15DC33 0.2.7.6 2016-05-04 01:49:16
+EntryGuard thanatosCZ 12FD624EE73CEF37137C90D38B2406A66F68FAA2 DirCache
+EntryGuardAddedBy 12FD624EE73CEF37137C90D38B2406A66F68FAA2 0.2.7.6 2016-04-07 19:19:22
+TorVersion Tor 0.2.7.6 (git-7a489a6389110120)
+LastWritten 2016-05-06 06:20:38
+TotalBuildTimes 13
+CircuitBuildTimeBin 425 6
+CircuitBuildTimeBin 475 1
+CircuitBuildTimeBin 625 1
+CircuitBuildTimeBin 725 1
+CircuitBuildTimeBin 775 3
+CircuitBuildTimeBin 875 1
